@@ -4,7 +4,7 @@
 
 We have dove into querying a little in the third chapter to select, create and insert data with SQL, now let's take deeper look.
 
-#### An import thing to remember is we need to understand our data.
+#### An important thing to remember is we need to understand our data.
 
 * How is it structured?
 
